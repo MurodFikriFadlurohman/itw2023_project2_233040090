@@ -48,6 +48,10 @@ body {
     text-align: center;
     margin-left: 80px;
   }
+
+  .footer p {
+    text-align: center;
+  }
 }
 
 /* Akhir Navbar */
